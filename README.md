@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# 👽 About Me:
 I am Juan Meunier, a backend developer with experience in Python and frameworks such as Django, FastAPI, and Flask for building REST APIs, GraphQL services, and microservices. I have strong expertise in MySQL and MongoDB databases and leverage Docker to optimize development and production environments. My approach is centered on best practices and clean code, ensuring scalable, efficient, and maintainable solutions. I am currently pursuing a University Degree in Programming at UTN.
 
 

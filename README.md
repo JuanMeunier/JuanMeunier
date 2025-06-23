@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 👽 About Me:
-I am Juan Meunier, a backend developer specialized in building scalable and maintainable solutions, with a strong focus on TypeScript and Node.js. I have hands-on experience developing REST APIs and microservices using frameworks such as Express and NestJS. I am proficient with both relational and NoSQL databases, including MySQL, PostgreSQL, and MongoDB, and I use containerization tools like Docker to streamline development workflows.
+Hi, I’m Juan Meunier. I specialize in backend development, particularly using Node.js and TypeScript. I create scalable systems, primarily REST APIs and microservices with frameworks like Express and NestJS. I work with SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB, and I use Docker to optimize workflows.
 
 Additionally, I have secondary experience with Python and its frameworks, including Django, FastAPI, and Flask, which I use to support various projects. I prioritize clean code and best practices in all my backend development work.
 
